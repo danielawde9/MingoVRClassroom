@@ -248,8 +248,8 @@
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Input\Controllers\ControllerButtonUsageActiveState.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Collisions\IsPointWithinCollider.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\PoseDetection\HmdOffset.cs" />
-    <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Unity\PointableCanvasMesh.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Shapes\CylinderOrientation.cs" />
+    <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Unity\PointableCanvasMesh.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Throw\IPoseInputDevice.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Unity\PointableCanvasUnityEventWrapper.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Models\DistanceGrab\DistantCandidateComputer.cs" />
@@ -389,8 +389,8 @@
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Throw\HandPoseInputDevice.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Input\Hands\FromHandPrefabDataSource.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\PoseDetection\JointDistanceActiveState.cs" />
-    <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Models\Snap\SnapInteractable.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Models\HandGrab\HandGrabInteractableDataCollection.cs" />
+    <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Models\Snap\SnapInteractable.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\PoseDetection\Debug\HandShapeDebugVisual.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\Interaction\Surfaces\IClippedSurface.cs" />
     <Compile Include="Assets\Oculus\Interaction\Runtime\Scripts\DistanceGrab\Visuals\IReticleData.cs" />

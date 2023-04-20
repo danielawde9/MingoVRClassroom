@@ -1,0 +1,28 @@
+<dependencies>
+  <compile
+      roots="C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_core.jar:unspecified@jar,__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_platform_dictation.jar:unspecified@jar,__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_platform_logger.jar:unspecified@jar,__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_unity.jar:unspecified@jar,:InteractionSdk:@aar,:OVRPlugin:@aar">
+    <dependency
+        name="C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_core.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_platform_dictation.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_platform_logger.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:C:\Users\Daniel\Desktop\MingoVRClassroom\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\voicesdk_unity.jar:unspecified@jar"/>
+    <dependency
+        name=":InteractionSdk:@aar"/>
+    <dependency
+        name=":OVRPlugin:@aar"/>
+  </package>
+</dependencies>

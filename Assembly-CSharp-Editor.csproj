@@ -861,6 +861,10 @@
       <Project>{76B255A4-F8D6-4990-3A86-420C604CD857}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="Meta.WitAi.Lib.csproj">
+      <Project>{6987048D-02D6-AB1D-AC3C-7B1657EC2AF0}</Project>
+      <Name>Meta.WitAi.Lib</Name>
+    </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
       <Project>{8A1F6FA6-3D32-CE2E-4DED-45DCC28B7A6C}</Project>
       <Name>Oculus.Interaction.OVR.Editor</Name>
@@ -868,10 +872,6 @@
     <ProjectReference Include="Facebook.Wit.Dictation.csproj">
       <Project>{7AE73BCB-C730-82BA-DD2A-AA003CEF2EFA}</Project>
       <Name>Facebook.Wit.Dictation</Name>
-    </ProjectReference>
-    <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{6987048D-02D6-AB1D-AC3C-7B1657EC2AF0}</Project>
-      <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
       <Project>{054994DE-22A8-4D1F-37B2-EDF4D2A657D7}</Project>

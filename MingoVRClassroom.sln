@@ -37,9 +37,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meta.WitAI.Lib.Editor", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Spatializer.Editor", "Oculus.Spatializer.Editor.csproj", "{820F03D8-2D7E-16C6-9F86-E0C4A684760D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistantCoreSDKRuntime", "AssistantCoreSDKRuntime.csproj", "{736929D0-0C83-0C49-F59A-36F19EB07E51}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.AudioManager", "Oculus.AudioManager.csproj", "{C54AD24A-34B1-E269-6318-93DA993A21E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistantCoreSDKRuntime", "AssistantCoreSDKRuntime.csproj", "{736929D0-0C83-0C49-F59A-36F19EB07E51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook.Wit.Dictation", "Facebook.Wit.Dictation.csproj", "{7AE73BCB-C730-82BA-DD2A-AA003CEF2EFA}"
 EndProject
@@ -161,14 +161,14 @@ Global
 		{820F03D8-2D7E-16C6-9F86-E0C4A684760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820F03D8-2D7E-16C6-9F86-E0C4A684760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820F03D8-2D7E-16C6-9F86-E0C4A684760D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C54AD24A-34B1-E269-6318-93DA993A21E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C54AD24A-34B1-E269-6318-93DA993A21E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C54AD24A-34B1-E269-6318-93DA993A21E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C54AD24A-34B1-E269-6318-93DA993A21E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736929D0-0C83-0C49-F59A-36F19EB07E51}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7AE73BCB-C730-82BA-DD2A-AA003CEF2EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7AE73BCB-C730-82BA-DD2A-AA003CEF2EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE73BCB-C730-82BA-DD2A-AA003CEF2EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
