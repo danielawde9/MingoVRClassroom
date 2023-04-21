@@ -20,7 +20,7 @@ Welcome to the **VR Mingo** project, a captivating and immersive virtual reality
 
 ## Requirements
 
-- Unity 2020.3.18f1 or later
+- Unity 2021.3.18f1 or later
 - Oculus Integration package v29.0 or later
 - Oculus Rift, Rift S, or Quest with a compatible Link cable
 
